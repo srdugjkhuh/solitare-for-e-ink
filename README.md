@@ -2,7 +2,7 @@
 
 A solitaire card game implementation optimized for e-ink displays, built with Kotlin.
 
-## 怎样下载？找到“Release”页面，点击最新版本的“app-debug.apk“即可下载！
+## 怎样下载？找到“Releases”页面，点击最新版本的“app-debug.apk“即可下载！
 
 ## Overview
 
